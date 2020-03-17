@@ -1,24 +1,24 @@
-﻿coronavirus.jetzt #;Sterbedatum od. Datum Bekanntgabe;Bundesland;Stadt/Landkreis;Sterbeort;Alter;Geschlecht;Pflegeheim;Vorerkrankungen;Quelle
-1;09.03.2020;Nordrhein-Westfalen;Essen;Universitätsklinikum Essen;89;w;;Herzerkrankung, Diabetes;https://www.tagesschau.de/inland/coronavirus-deutschland-tote-101.html
-2;09.03.2020;Nordrhein-Westfalen;Heinsberg;Krankenhaus Geilenkirchen;78;m;;;https://www.tagesschau.de/inland/coronavirus-deutschland-tote-101.html
-3;11.03.2020;Nordrhein-Westfalen;Heinsberg;Krankenhaus Heinsberg;73;m;;chrinische Niereninsuffizienz (dialysepflichtig);https://www.coronavirus.jetzt/3-todesfall-in-deutschland-in-nordrhein-westfalen-2949/
-4;12.03.2020;Baden-Württemberg;Rems-Murr-Kreis;zuhause;67;m;nein;;https://www.coronavirus.jetzt/4-und-5-todesfall-in-deutschland-bayern-und-baden-wuerttemberg-2964/
-5;12.03.2020;Bayern;Würzburg;Universitätsklinikum Würzburg;80+;m;Seniorenheim Ehehaltenhaus/St. Nikolaus, Würzburg;ja;https://www.coronavirus.jetzt/4-und-5-todesfall-in-deutschland-bayern-und-baden-wuerttemberg-2964/
-6;12.03.2020;Nordrhein-Westfalen;Heinsberg;Krankenhaus Heinsberg;78;w;;chrinische Niereninsuffizienz (dialysepflichtig);https://rp-online.de/nrw/staedte/kreis-heinsberg/stadt-infos/73-jaehriger-dialysepatient-im-krankenhaus-heinsberg-verstorben_aid-49502075
-7;12.03.2020;Baden-Württemberg;;Medius Klinik Kirchheim;80;m;;Rheumatoide Arthritis;https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/zweiter-todesfall-corona-100.html
-8;13.03.2020;Baden-Württemberg;Göppingen;Klinik am Eichert Göppingen;84;m;;ja;https://www.swp.de/suedwesten/landkreise/lk-goeppingen/coronavirus-goeppingen-virus-breitet-sich-rasant-aus-44610658.html
-;12.03.2020;Nordrhein-Westfalen;Rhein-Kreis Neuss;Lukaskrankenhaus Neuss;84;w;;ja;https://rp-online.de/nrw/staedte/neuss/corona-patientin-aus-gangelt-stirbt-im-lukas_aid-49576607
-9;14.03.2020;Nordrhein-Westfalen;?;?;?;?;;;https://www.coronavirus.jetzt/die-todesfaelle-9-bis-11-in-deutschland-nrw-und-bayern-betroffen-3010/
-10;15.03.2020;Bayern;Neu-Ulm;Stiftungsklinik Weißenhorn;83;m;;;https://www.swp.de/suedwesten/staedte/neu-ulm/coronavirus-ulm-und-neu-ulm-erster-corona-toter-im-kreis-neu-ulm-mann-stirbt-in-weissenhorn-44605088.html
-11;15.03.2020;Bayern;Kempten;Klinikum Kempten;86;w;AWO-Seniorenzentrum Kempten;;https://www.all-in.de/kempten/c-lokales/erster-todesfall-im-allgaeu-frau-86-aus-seniorenheim-in-kempten-stirbt-an-coronavirus_a5058645
-12;15.03.2020;Nordrhein-Westfalen;Düsseldorf;?-Krankenhaus Düsseldorf;81;m;;;https://www.coronavirus.jetzt/12-und-13-todesfall-in-deutschland-nordrhein-westfalen-sowie-bayern-3031/
-13;15.03.2020;Bayern;Würzburg;?-Krankenhaus Würzburg;80+;m;Seniorenheim Ehehaltenhaus/St. Nikolaus, Würzburg;ja;https://www.coronavirus.jetzt/12-und-13-todesfall-in-deutschland-nordrhein-westfalen-sowie-bayern-3031/
-14;16.03.2020;Nordrhein-Westfalen;Heinsberg;Krankenhaus Heinsberg;94;w;;ja;https://www.coronavirus.jetzt/14-bis-17-todesfall-in-deutschland-nrw-sowie-hamburg-und-bayern-3066/
-15;16.03.2020;Nordrhein-Westfalen;Heinsberg (Landkreis);Krankenhaus Erkelenz;81;w;;ja;https://www.coronavirus.jetzt/14-bis-17-todesfall-in-deutschland-nrw-sowie-hamburg-und-bayern-3066/
-16;13.03.2020;Hamburg;Hamburg;?-Krankenhaus Hamburg;76;m;Haus Alstertal, Hamburg;;https://www.coronavirus.jetzt/14-bis-17-todesfall-in-deutschland-nrw-sowie-hamburg-und-bayern-3066/
-17;16.03.2020;Bayern;Würzburg;?-Krankenhaus Würzburg;90+;m;Seniorenheim Ehehaltenhaus/St. Nikolaus, Würzburg;;https://www.coronavirus.jetzt/14-bis-17-todesfall-in-deutschland-nrw-sowie-hamburg-und-bayern-3066/
-18;17.03.2020;Baden-Württemberg;Heilbronn (Landkreis);SLK Lungenklinik Löwenstein;80;w;Pflegeheim, Landkreis Heilbronn;schwere Grunderkrankungen;https://www.coronavirus.jetzt/18-todesfall-in-deutschland-4-in-baden-wuerttemberg-3077/
-19;16.03.2002;Nordrhein-Westfalen;Aachen;Luisenhospital Aachen;80;m;;mehrfach vorerkrankt;https://www.coronavirus.jetzt/19-und-20-todesfall-in-deutschland-nordrhein-westfalen-3078/
-20;16.03.2002;Nordrhein-Westfalen;Eschweiler ;St. Antonius-Hospital Eschweiler;84;m;;ja;https://www.coronavirus.jetzt/19-und-20-todesfall-in-deutschland-nordrhein-westfalen-3078/
-;16.03.2002;Nordrhein-Westfalen;Erkelenz;Krankenhaus Erkelenz;81;w;;ja;https://www.wz.de/nrw/kreis-heinsberg-acht-coronavirus-todesfaelle-in-nrw_aid-49580235
-;15.03.2020;Nordrhein-Westfalen;Köln;;85;w;ja;Immunsuppressive Therapie;https://www.ksta.de/koeln/coronavirus-erster-todesfall-in-koeln---ford-werke-werden-geschlossen-36349934
+coronavirus.jetzt #,Sterbedatum od. Datum Bekanntgabe,Bundesland,Stadt/Landkreis,Sterbeort,Alter,Geschlecht,Pflegeheim,Vorerkrankungen,Quelle
+1,3/9/2020,Nordrhein-Westfalen,Essen,Universitätsklinikum Essen,89,w,,"Herzerkrankung, Diabetes",https://www.tagesschau.de/inland/coronavirus-deutschland-tote-101.html
+2,3/9/2020,Nordrhein-Westfalen,Heinsberg,Krankenhaus Geilenkirchen,78,m,,,https://www.tagesschau.de/inland/coronavirus-deutschland-tote-101.html
+3,3/11/2020,Nordrhein-Westfalen,Heinsberg,Krankenhaus Heinsberg,73,m,,chrinische Niereninsuffizienz (dialysepflichtig),https://www.coronavirus.jetzt/3-todesfall-in-deutschland-in-nordrhein-westfalen-2949/
+4,3/12/2020,Baden-Württemberg,Rems-Murr-Kreis,zuhause,67,m,nein,,https://www.coronavirus.jetzt/4-und-5-todesfall-in-deutschland-bayern-und-baden-wuerttemberg-2964/
+5,3/12/2020,Bayern,Würzburg,Universitätsklinikum Würzburg,80+,m,"Seniorenheim Ehehaltenhaus/St. Nikolaus, Würzburg",ja,https://www.coronavirus.jetzt/4-und-5-todesfall-in-deutschland-bayern-und-baden-wuerttemberg-2964/
+6,3/12/2020,Nordrhein-Westfalen,Heinsberg,Krankenhaus Heinsberg,78,w,,chrinische Niereninsuffizienz (dialysepflichtig),https://rp-online.de/nrw/staedte/kreis-heinsberg/stadt-infos/73-jaehriger-dialysepatient-im-krankenhaus-heinsberg-verstorben_aid-49502075
+7,3/12/2020,Baden-Württemberg,,Medius Klinik Kirchheim,80,m,,Rheumatoide Arthritis,https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/zweiter-todesfall-corona-100.html
+8,3/13/2020,Baden-Württemberg,Göppingen,Klinik am Eichert Göppingen,84,m,,ja,https://www.swp.de/suedwesten/landkreise/lk-goeppingen/coronavirus-goeppingen-virus-breitet-sich-rasant-aus-44610658.html
+,3/12/2020,Nordrhein-Westfalen,Rhein-Kreis Neuss,Lukaskrankenhaus Neuss,84,w,,ja,https://rp-online.de/nrw/staedte/neuss/corona-patientin-aus-gangelt-stirbt-im-lukas_aid-49576607
+9,3/14/2020,Nordrhein-Westfalen,?,?,?,?,,,https://www.coronavirus.jetzt/die-todesfaelle-9-bis-11-in-deutschland-nrw-und-bayern-betroffen-3010/
+10,3/15/2020,Bayern,Neu-Ulm,Stiftungsklinik Weißenhorn,83,m,,,https://www.swp.de/suedwesten/staedte/neu-ulm/coronavirus-ulm-und-neu-ulm-erster-corona-toter-im-kreis-neu-ulm-mann-stirbt-in-weissenhorn-44605088.html
+11,3/15/2020,Bayern,Kempten,Klinikum Kempten,86,w,AWO-Seniorenzentrum Kempten,,https://www.all-in.de/kempten/c-lokales/erster-todesfall-im-allgaeu-frau-86-aus-seniorenheim-in-kempten-stirbt-an-coronavirus_a5058645
+12,3/15/2020,Nordrhein-Westfalen,Düsseldorf,?-Krankenhaus Düsseldorf,81,m,,,https://www.coronavirus.jetzt/12-und-13-todesfall-in-deutschland-nordrhein-westfalen-sowie-bayern-3031/
+13,3/15/2020,Bayern,Würzburg,?-Krankenhaus Würzburg,80+,m,"Seniorenheim Ehehaltenhaus/St. Nikolaus, Würzburg",ja,https://www.coronavirus.jetzt/12-und-13-todesfall-in-deutschland-nordrhein-westfalen-sowie-bayern-3031/
+14,3/16/2020,Nordrhein-Westfalen,Heinsberg,Krankenhaus Heinsberg,94,w,,ja,https://www.coronavirus.jetzt/14-bis-17-todesfall-in-deutschland-nrw-sowie-hamburg-und-bayern-3066/
+15,3/16/2020,Nordrhein-Westfalen,Heinsberg (Landkreis),Krankenhaus Erkelenz,81,w,,ja,https://www.coronavirus.jetzt/14-bis-17-todesfall-in-deutschland-nrw-sowie-hamburg-und-bayern-3066/
+16,3/13/2020,Hamburg,Hamburg,?-Krankenhaus Hamburg,76,m,"Haus Alstertal, Hamburg",,https://www.coronavirus.jetzt/14-bis-17-todesfall-in-deutschland-nrw-sowie-hamburg-und-bayern-3066/
+17,3/16/2020,Bayern,Würzburg,?-Krankenhaus Würzburg,90+,m,"Seniorenheim Ehehaltenhaus/St. Nikolaus, Würzburg",,https://www.coronavirus.jetzt/14-bis-17-todesfall-in-deutschland-nrw-sowie-hamburg-und-bayern-3066/
+18,3/17/2020,Baden-Württemberg,Heilbronn (Landkreis),SLK Lungenklinik Löwenstein,80,w,"Pflegeheim, Landkreis Heilbronn",schwere Grunderkrankungen,https://www.coronavirus.jetzt/18-todesfall-in-deutschland-4-in-baden-wuerttemberg-3077/
+19,3/16/2002,Nordrhein-Westfalen,Aachen,Luisenhospital Aachen,80,m,,mehrfach vorerkrankt,https://www.coronavirus.jetzt/19-und-20-todesfall-in-deutschland-nordrhein-westfalen-3078/
+20,3/16/2002,Nordrhein-Westfalen,Eschweiler ,St. Antonius-Hospital Eschweiler,84,m,,ja,https://www.coronavirus.jetzt/19-und-20-todesfall-in-deutschland-nordrhein-westfalen-3078/
+,3/16/2002,Nordrhein-Westfalen,Erkelenz,Krankenhaus Erkelenz,81,w,,ja,https://www.wz.de/nrw/kreis-heinsberg-acht-coronavirus-todesfaelle-in-nrw_aid-49580235
+,3/15/2020,Nordrhein-Westfalen,Köln,,85,w,ja,Immunsuppressive Therapie,https://www.ksta.de/koeln/coronavirus-erster-todesfall-in-koeln---ford-werke-werden-geschlossen-36349934
